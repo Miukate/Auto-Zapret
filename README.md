@@ -3,7 +3,7 @@
   <h1>Auto Zapret</h1>
   <p><b>Автоматический обход DPI-блокировок для Windows с современным интерфейсом.</b></p>
   
-  [![Latest Release](https://img.shields.io/github/v/release/ТВОЙ_НИК/Auto-Zapret?style=for-the-badge&color=2563EB)](../../releases/latest)
+  [![Latest Release](https://img.shields.io/github/v/release/Miukate/Auto-Zapret?style=for-the-badge&color=2563EB)](https://github.com/Miukate/Auto-Zapret/releases/latest)
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://python.org)
   [![PySide6](https://img.shields.io/badge/PySide6-QML-green?style=for-the-badge&logo=qt)](https://pypi.org/project/PySide6/)
 </div>
@@ -12,7 +12,7 @@
 
 ## 📥 Скачать (Для обычных пользователей)
 Вам не нужно быть программистом, чтобы пользоваться программой. 
-1. Перейдите в раздел **[Releases (Релизы)](../../releases/latest)**.
+1. Перейдите в раздел **[Releases (Релизы)](https://github.com/Miukate/Auto-Zapret/releases/latest)**.
 2. Скачайте установщик **`AutoZapret_Setup.exe`**.
 3. Запустите его, установите и пользуйтесь! 
 
